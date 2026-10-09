@@ -8,7 +8,8 @@ A fast download manager for Windows. Installers and updates are published on the
 - Multi-connection downloading: each file is split into up to 32 parallel segments.
 - Pause and resume with byte-accurate continuation, including after a restart.
 - Segment view showing the progress of each part.
-- Queues with a limit on simultaneous downloads, start and stop times, and an option to shut down the PC when the queue finishes.
+- Queues for files, videos and torrents: a limit on simultaneous downloads, and queues with a start and stop time that keep their downloads waiting until they open.
+- A finished download shows "Joining parts" while its parts are put together.
 - Automatic fallback to a single stream when a server does not support byte ranges.
 - Automatic retry after connection problems, and automatic resume when the internet comes back.
 - Change link: continue an unfinished download from a new address when the old one expired.
