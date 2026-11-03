@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://asad1224.github.io/Vicious-Download-Manager-releases/sitemap.xml
